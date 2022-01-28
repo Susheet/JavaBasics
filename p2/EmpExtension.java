@@ -9,7 +9,7 @@ public class EmpExtension extends MyEmployee {
         //cannot access as this is default in MyEmployee class
         //e.id = 2;
 
-        e.name = "Kumar";
+        //e.name = "Kumar";
 
     }
 }
