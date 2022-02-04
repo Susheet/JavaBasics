@@ -1,4 +1,4 @@
-package p2;
+package com.company.p2;
 import com.company.AccessModifierExample;
 import com.company.MyEmployee;
 
@@ -9,7 +9,7 @@ public class EmpExtension extends MyEmployee {
         //cannot access as this is default in MyEmployee class
         //e.id = 2;
 
-        e.name = "Kumar";
+        //e.name = "Kumar";
 
     }
 }
